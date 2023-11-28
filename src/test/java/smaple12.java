@@ -6,9 +6,10 @@ public class smaple12 {
 		public void test2(){
 		}
 		
-		
-		// TODO Auto-generated method stub
 
-	
+@Test
+public void create() {
+	System.out.println("jdfh");
+}
 
 }
